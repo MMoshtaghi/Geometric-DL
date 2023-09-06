@@ -7,3 +7,5 @@ This repository serves as a digital journal of my personal exploration and disco
 🔍 Curated Resources: Links to papers, articles, blog posts, and video lectures that I've found particularly helpful in expanding my knowledge of Geometric Deep Learning.
 - [First Italian School on Geometric Deep Learning - Pescara 2022 - by Michael Bronstein et. al. :)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
 - [Their webpage](https://www.sci.unich.it/geodeep2022/#home)
+
+- Read up on different [Sparsity layouts in PyTorch](https://pytorch.org/docs/stable/sparse.html#sparse-coo-docs). You definitely need them when working with GNNs with large number of nodes.
