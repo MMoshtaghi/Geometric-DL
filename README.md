@@ -1,5 +1,4 @@
 # GDL
-Welcome to the Geometric Deep Learning Tutorials and Resources repository! 🌐✨
 
 Welcome to "My Geometric Deep Learning Learning Journey" repository! 🌐✨
 
